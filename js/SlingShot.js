@@ -3,9 +3,6 @@ class Slingshot{
         var options = {
             bodyA: bodyA,
             pointB: pointB,
-            restitution: 0.4,
-            isStatic: false,
-            friction: 0.0,
             stiffness: 0.04,
             length: 10
         }
